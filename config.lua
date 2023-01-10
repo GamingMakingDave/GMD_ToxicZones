@@ -8,12 +8,8 @@ Config.ZoneBlip = true
 Config.ToxicZones = {
     ZoneSettings = {
         {
-            coords = vector3(-350.70596313477,-1365.8508300781,31.249328613281),
-            radius = 500
+            coords = vector3(2750.2,1576.42,24.00),
+            radius = 200.0
         },
-        {
-            coords = vector3(-350.70596313477,-1365.8508300781,31.249328613281),
-            radius = 500
-        }
     }
 }
